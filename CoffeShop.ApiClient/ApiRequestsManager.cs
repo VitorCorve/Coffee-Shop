@@ -1,4 +1,4 @@
-﻿namespace CoffeShop.ApiClient
+﻿namespace CoffeeShop.ApiClient
 {
     public class ApiRequestsManager
     {
